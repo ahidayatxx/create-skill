@@ -202,7 +202,7 @@ The skill validates:
 
 ## Contributing
 
-This skill is part of the Claude Skills Factory. For improvements or bug reports, please refer to the main project.
+For improvements or bug reports, please open an issue on GitHub.
 
 ## License
 
@@ -217,11 +217,7 @@ The video demonstrates the power and potential of Claude Skills, which inspired 
 
 ## Related Resources
 
-- [Claude Skills Documentation](https://platform.claude.com/docs)
-- [Mark Kashef on YouTube](https://www.youtube.com/@MarkKashef)
-- [Skills Factory](../../)
-- [Skill Examples](../../claude_skills_example/)
-- [Best Practices](../../claude_skills_documentation/Skill%20authoring%20best%20practices.md)
+- [Claude Code Skills Documentation](https://code.claude.com/docs/en/skills)
 
 ## Version
 
