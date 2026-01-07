@@ -1,5 +1,15 @@
 # Create Skill
 
+> **⚠️ ARCHIVED - This repository has been moved**
+>
+> This skill is now part of the **[Claude Skills Collection](https://github.com/ahidayatxx/claude-skills-collection)** repository.
+>
+> **New location**: `https://github.com/ahidayatxx/claude-skills-collection/tree/main/create-skill`
+>
+> Please use the new repository for the latest updates, bug fixes, and contributions.
+>
+> This repository is kept for historical reference only.
+
 A comprehensive Claude Skill for creating, structuring, and packaging new Claude Skills.
 
 ## Overview
